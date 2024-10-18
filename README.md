@@ -1,5 +1,6 @@
 # Tic_Project
 
+Services:
 •	 Login and registration service - User can log in and create a new account
 •	Film and series streaming platform – A web and mobile application for browsing, streaming films.
 
